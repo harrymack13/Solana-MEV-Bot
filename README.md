@@ -58,7 +58,7 @@ Built for both beginners and professionals, this high-frequency **arbitrage trad
 
 ## 💸 Fees & Costs
 
-- The bot charges a **15% performance fee**, **only** on **successful arbitrage trades**.
+- The bot charges a **10% performance fee**, **only** on **successful arbitrage trades**.
 - If no trades land, **you pay nothing**.
 - You only need to cover your **RPC** and **machine runtime**.
 
